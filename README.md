@@ -1,6 +1,6 @@
 # Code examples using discord.py
 
-This repository will be useful for those, who want to learn basics of working with discord API through python
+This repository will be useful for those, who want to learn basics of working with discord API through python. 
 
 ## Table of Contents
 
@@ -12,4 +12,7 @@ This repository will be useful for those, who want to learn basics of working wi
 
 To install the `discord.py` library with support for application commands, use the following command:
 - `pip install -U git+https://github.com/Rapptz/discord.py`
+
+## Examples
+I tried my best to put together the most useful command code examples for discord bot development
 
